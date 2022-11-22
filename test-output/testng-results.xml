@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3134" started-at="2022-10-27T17:33:22 CDT" finished-at="2022-10-27T17:33:25 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3134" started-at="2022-10-27T17:33:22 CDT" finished-at="2022-10-27T17:33:25 CDT">
+      <class name="testcase.DeleteOneProduct">
+        <test-method status="PASS" signature="deleteOneProduct()[pri:1, instance:testcase.DeleteOneProduct@80503]" name="deleteOneProduct" duration-ms="2621" started-at="2022-10-27T17:33:22 CDT" finished-at="2022-10-27T17:33:25 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteOneProduct -->
+        <test-method status="PASS" signature="readOneProduct()[pri:2, instance:testcase.DeleteOneProduct@80503]" name="readOneProduct" duration-ms="480" started-at="2022-10-27T17:33:25 CDT" finished-at="2022-10-27T17:33:25 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readOneProduct -->
+      </class> <!-- testcase.DeleteOneProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
